@@ -1,0 +1,9 @@
+{
+  "name": "projectadhis",
+  "displayName": "projectadhis",
+  "config": {
+    "googleMaps": { 
+      "apiKey": "AIzaSyAvk0tRu7fY9IgNGHjfP5U7mBWqEs2iVFc" 
+    }   
+ }
+}
